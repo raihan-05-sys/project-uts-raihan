@@ -74,7 +74,7 @@ h2 {
   text-align: center; 
 }
 
-/* Mengatur label form agar tetap rata kiri supaya rapi */
+/* Mengatur label form agar tetap rata di kiri supaya rapi */
 :deep(.el-form-item__label) {
   text-align: left;
   display: block;
