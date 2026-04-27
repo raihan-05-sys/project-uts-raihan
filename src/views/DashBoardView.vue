@@ -43,7 +43,7 @@
             </div>
           </div>
           <div class="table-container">
-            <h4 class="sub-title">Riwayat Aktivitas</h4>
+            <h4 class="sub-title">Riwayat Aktivitas armadhan fithra</h4>
             <el-table :data="detailData.setoran.detail" height="250" class="mini-table">
               <el-table-column prop="nama" label="Surah" />
               <el-table-column label="Status" width="100" align="center">
